@@ -1,7 +1,7 @@
 # Password Generator Project
 
 # Problem Statement:
-# Generate a password according to user input. First you will ask the user the count of letters, symbols and numbers, and accourdingly you will generate a random password.
+# Generate a password according to user input. First you will ask the user the count of letters, symbols and numbers, and accordingly you will generate a random password.
 
 
 
